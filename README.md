@@ -1,5 +1,4 @@
 # DaSH-Reading_Group
-Read ]
 
 Repo for Office for National Statistics Methodology Division Data science, Statistical and High performance computing (DaSH) expert group 
 
